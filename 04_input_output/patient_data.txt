@@ -1,0 +1,8 @@
+First name: Jan
+Last name: Kowalski
+Weight: 75.5
+Height: 1.85
+Date of birth: 1990-01-01
+Chronic_conditions: hypertension, diabetes
+Hypertension medications: enalapril, hydrochlorothiazide
+Diabetes medications: metformin
